@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/diego/Github/Android/FragmentsSwipe/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/diego/Github/Android/FragmentsSwipe/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_47bad1f0687def90445c636b3fe86b0b4c9bf897/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diego/Github/Android/FragmentsSwipe/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/diego/Github/Android/FragmentsSwipe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_53e6919838398194fd28adf892fe63df47b37ef5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diego/Github/Android/FragmentsSwipe/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f5f61c7a27b5725c6d2b42a3a4e2fc9aaf5941b0">
+        <dex dex="/Users/diego/Github/Android/FragmentsSwipe/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_41b0a2e26bcb25e95292efe66fbcfeec0cd9832c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diego/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/diego/Github/Android/FragmentsSwipe/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_b0ece4c9374e7242a49e21248163f9bdb205b30d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diego/Github/Android/FragmentsSwipe/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c002d7c2becf735c80f87a76fee33014ab36c019">
+        <dex dex="/Users/diego/Github/Android/FragmentsSwipe/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b6d5525f3ae9a4736b8f5c98306d8af1fadc641b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diego/Github/Android/FragmentsSwipe/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/diego/Github/Android/FragmentsSwipe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_2b48d7c20dfc3576fbd908fb10980234d07889f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diego/Github/Android/FragmentsSwipe/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/diego/Github/Android/FragmentsSwipe/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9003d9c05487d23207005a2bbb8090a0b5841df3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diego/Github/Android/FragmentsSwipe/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/diego/Github/Android/FragmentsSwipe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_f491331ee6be36a994998f401526807ccbfe1e31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diego/Github/Android/FragmentsSwipe/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/diego/Github/Android/FragmentsSwipe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_0b41e3c36b87be6fed57b554ce4fa79dd89b60d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diego/Github/Android/FragmentsSwipe/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/diego/Github/Android/FragmentsSwipe/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_7fa9a9493aeafbb8a9a15ce67e6dce6d42ec1d75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diego/Github/Android/FragmentsSwipe/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/diego/Github/Android/FragmentsSwipe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_906f9031acff1d2fb40bc7af53e57b4530ab8716/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diego/Github/Android/FragmentsSwipe/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/diego/Github/Android/FragmentsSwipe/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_4f8d408e4a956da07a8f06f16be3c6db2c0d0daa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diego/Github/Android/FragmentsSwipe/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/diego/Github/Android/FragmentsSwipe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_0d5d3e30d29711806b04f144a7c71259bc5e32b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diego/Github/Android/FragmentsSwipe/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/diego/Github/Android/FragmentsSwipe/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_06af5da721c0b9fee01653439c81bab7e2b38e03/classes.dex" />
+    </item>
+
+</items>

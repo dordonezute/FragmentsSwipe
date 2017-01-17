@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Tue Jan 17 17:56:13 ECT 2017
+1.base=/Users/diego/Github/Android/FragmentsSwipe/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/diego/Github/Android/FragmentsSwipe/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+1.file=/Users/diego/Github/Android/FragmentsSwipe/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+4.set=ANDROID_RESOURCE
+2.base=/Users/diego/Github/Android/FragmentsSwipe/app/build/intermediates/res/resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=/Users/diego/Github/Android/FragmentsSwipe/app/build/intermediates/res/resources-debug.ap_/res/menu/activity_main.xml
+count=5
+1.set=ANDROID_RESOURCE
+3.base=/Users/diego/Github/Android/FragmentsSwipe/app/build/intermediates/res/resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=/Users/diego/Github/Android/FragmentsSwipe/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/diego/Github/Android/FragmentsSwipe/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+0.file=/Users/diego/Github/Android/FragmentsSwipe/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/ic_launcher.png
+4.base=/Users/diego/Github/Android/FragmentsSwipe/app/build/intermediates/res/resources-debug.ap_

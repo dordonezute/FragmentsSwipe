@@ -1,0 +1,7 @@
+#Tue Jan 17 17:56:32 ECT 2017
+base.0=/Users/diego/Github/Android/FragmentsSwipe/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b6d5525f3ae9a4736b8f5c98306d8af1fadc641b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/diego/Github/Android/FragmentsSwipe/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_41b0a2e26bcb25e95292efe66fbcfeec0cd9832c/classes.dex
+base.1=/Users/diego/Github/Android/FragmentsSwipe/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_41b0a2e26bcb25e95292efe66fbcfeec0cd9832c
+file.0=/Users/diego/Github/Android/FragmentsSwipe/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b6d5525f3ae9a4736b8f5c98306d8af1fadc641b/classes.dex
